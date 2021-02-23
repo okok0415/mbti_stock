@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mbti_stock/static/css/main.0a8cc8fa.chunk.css",
-    "main.js": "/mbti_stock/static/js/main.af3b9e53.chunk.js",
-    "main.js.map": "/mbti_stock/static/js/main.af3b9e53.chunk.js.map",
+    "main.css": "/mbti_stock/static/css/main.4f16c183.chunk.css",
+    "main.js": "/mbti_stock/static/js/main.5d4f95fe.chunk.js",
+    "main.js.map": "/mbti_stock/static/js/main.5d4f95fe.chunk.js.map",
     "runtime-main.js": "/mbti_stock/static/js/runtime-main.a99e3155.js",
     "runtime-main.js.map": "/mbti_stock/static/js/runtime-main.a99e3155.js.map",
     "static/js/2.8cbefe96.chunk.js": "/mbti_stock/static/js/2.8cbefe96.chunk.js",
     "static/js/2.8cbefe96.chunk.js.map": "/mbti_stock/static/js/2.8cbefe96.chunk.js.map",
     "index.html": "/mbti_stock/index.html",
-    "static/css/main.0a8cc8fa.chunk.css.map": "/mbti_stock/static/css/main.0a8cc8fa.chunk.css.map",
+    "static/css/main.4f16c183.chunk.css.map": "/mbti_stock/static/css/main.4f16c183.chunk.css.map",
     "static/js/2.8cbefe96.chunk.js.LICENSE.txt": "/mbti_stock/static/js/2.8cbefe96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a99e3155.js",
     "static/js/2.8cbefe96.chunk.js",
-    "static/css/main.0a8cc8fa.chunk.css",
-    "static/js/main.af3b9e53.chunk.js"
+    "static/css/main.4f16c183.chunk.css",
+    "static/js/main.5d4f95fe.chunk.js"
   ]
 }
