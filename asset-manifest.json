@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mbti_stock/static/css/main.0a8cc8fa.chunk.css",
-    "main.js": "/mbti_stock/static/js/main.5ff7aeb6.chunk.js",
-    "main.js.map": "/mbti_stock/static/js/main.5ff7aeb6.chunk.js.map",
+    "main.js": "/mbti_stock/static/js/main.a7f8d1bf.chunk.js",
+    "main.js.map": "/mbti_stock/static/js/main.a7f8d1bf.chunk.js.map",
     "runtime-main.js": "/mbti_stock/static/js/runtime-main.a99e3155.js",
     "runtime-main.js.map": "/mbti_stock/static/js/runtime-main.a99e3155.js.map",
     "static/js/2.8cbefe96.chunk.js": "/mbti_stock/static/js/2.8cbefe96.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a99e3155.js",
     "static/js/2.8cbefe96.chunk.js",
     "static/css/main.0a8cc8fa.chunk.css",
-    "static/js/main.5ff7aeb6.chunk.js"
+    "static/js/main.a7f8d1bf.chunk.js"
   ]
 }
