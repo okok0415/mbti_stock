@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mbti_stock/static/css/main.052594a1.chunk.css",
+    "main.css": "/mbti_stock/static/css/main.e6d29f5c.chunk.css",
     "main.js": "/mbti_stock/static/js/main.7c4ee2f1.chunk.js",
     "main.js.map": "/mbti_stock/static/js/main.7c4ee2f1.chunk.js.map",
     "runtime-main.js": "/mbti_stock/static/js/runtime-main.a99e3155.js",
@@ -8,14 +8,14 @@
     "static/js/2.f2dabf94.chunk.js": "/mbti_stock/static/js/2.f2dabf94.chunk.js",
     "static/js/2.f2dabf94.chunk.js.map": "/mbti_stock/static/js/2.f2dabf94.chunk.js.map",
     "index.html": "/mbti_stock/index.html",
-    "static/css/main.052594a1.chunk.css.map": "/mbti_stock/static/css/main.052594a1.chunk.css.map",
+    "static/css/main.e6d29f5c.chunk.css.map": "/mbti_stock/static/css/main.e6d29f5c.chunk.css.map",
     "static/js/2.f2dabf94.chunk.js.LICENSE.txt": "/mbti_stock/static/js/2.f2dabf94.chunk.js.LICENSE.txt",
     "static/media/Samsung.ee5dcc48.png": "/mbti_stock/static/media/Samsung.ee5dcc48.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a99e3155.js",
     "static/js/2.f2dabf94.chunk.js",
-    "static/css/main.052594a1.chunk.css",
+    "static/css/main.e6d29f5c.chunk.css",
     "static/js/main.7c4ee2f1.chunk.js"
   ]
 }
