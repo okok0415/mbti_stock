@@ -1,21 +1,35 @@
 {
   "files": {
-    "main.css": "/mbti_stock/static/css/main.e6d29f5c.chunk.css",
-    "main.js": "/mbti_stock/static/js/main.7c4ee2f1.chunk.js",
-    "main.js.map": "/mbti_stock/static/js/main.7c4ee2f1.chunk.js.map",
+    "main.css": "/mbti_stock/static/css/main.8b8c78b7.chunk.css",
+    "main.js": "/mbti_stock/static/js/main.97fb24f4.chunk.js",
+    "main.js.map": "/mbti_stock/static/js/main.97fb24f4.chunk.js.map",
     "runtime-main.js": "/mbti_stock/static/js/runtime-main.a99e3155.js",
     "runtime-main.js.map": "/mbti_stock/static/js/runtime-main.a99e3155.js.map",
-    "static/js/2.f2dabf94.chunk.js": "/mbti_stock/static/js/2.f2dabf94.chunk.js",
-    "static/js/2.f2dabf94.chunk.js.map": "/mbti_stock/static/js/2.f2dabf94.chunk.js.map",
+    "static/js/2.5885698b.chunk.js": "/mbti_stock/static/js/2.5885698b.chunk.js",
+    "static/js/2.5885698b.chunk.js.map": "/mbti_stock/static/js/2.5885698b.chunk.js.map",
     "index.html": "/mbti_stock/index.html",
-    "static/css/main.e6d29f5c.chunk.css.map": "/mbti_stock/static/css/main.e6d29f5c.chunk.css.map",
-    "static/js/2.f2dabf94.chunk.js.LICENSE.txt": "/mbti_stock/static/js/2.f2dabf94.chunk.js.LICENSE.txt",
-    "static/media/Samsung.ee5dcc48.png": "/mbti_stock/static/media/Samsung.ee5dcc48.png"
+    "static/css/main.8b8c78b7.chunk.css.map": "/mbti_stock/static/css/main.8b8c78b7.chunk.css.map",
+    "static/js/2.5885698b.chunk.js.LICENSE.txt": "/mbti_stock/static/js/2.5885698b.chunk.js.LICENSE.txt",
+    "static/media/KIA.180fd86d.png": "/mbti_stock/static/media/KIA.180fd86d.png",
+    "static/media/LGelectron.684ba597.png": "/mbti_stock/static/media/LGelectron.684ba597.png",
+    "static/media/NAVER.b66bc7d1.png": "/mbti_stock/static/media/NAVER.b66bc7d1.png",
+    "static/media/SKinnovation.8bafbb5b.png": "/mbti_stock/static/media/SKinnovation.8bafbb5b.png",
+    "static/media/SKtelecom.a5f656e8.png": "/mbti_stock/static/media/SKtelecom.a5f656e8.png",
+    "static/media/Samsung.ee5dcc48.png": "/mbti_stock/static/media/Samsung.ee5dcc48.png",
+    "static/media/bighit.14fcffc6.png": "/mbti_stock/static/media/bighit.14fcffc6.png",
+    "static/media/celltrion.c36e1f6b.png": "/mbti_stock/static/media/celltrion.c36e1f6b.png",
+    "static/media/google.e06b1104.png": "/mbti_stock/static/media/google.e06b1104.png",
+    "static/media/hyundai.795edea3.png": "/mbti_stock/static/media/hyundai.795edea3.png",
+    "static/media/kakao.1b1b02b4.png": "/mbti_stock/static/media/kakao.1b1b02b4.png",
+    "static/media/kium.d647c260.png": "/mbti_stock/static/media/kium.d647c260.png",
+    "static/media/netmarble.fac9721c.png": "/mbti_stock/static/media/netmarble.fac9721c.png",
+    "static/media/sinpoong.ed7eb40b.png": "/mbti_stock/static/media/sinpoong.ed7eb40b.png",
+    "static/media/tesla.a3a7e15e.png": "/mbti_stock/static/media/tesla.a3a7e15e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a99e3155.js",
-    "static/js/2.f2dabf94.chunk.js",
-    "static/css/main.e6d29f5c.chunk.css",
-    "static/js/main.7c4ee2f1.chunk.js"
+    "static/js/2.5885698b.chunk.js",
+    "static/css/main.8b8c78b7.chunk.css",
+    "static/js/main.97fb24f4.chunk.js"
   ]
 }
