@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mbti_stock/static/css/main.8c9447d0.chunk.css",
+    "main.css": "/mbti_stock/static/css/main.db845341.chunk.css",
     "main.js": "/mbti_stock/static/js/main.aee2b983.chunk.js",
     "main.js.map": "/mbti_stock/static/js/main.aee2b983.chunk.js.map",
     "runtime-main.js": "/mbti_stock/static/js/runtime-main.a99e3155.js",
@@ -8,7 +8,7 @@
     "static/js/2.5885698b.chunk.js": "/mbti_stock/static/js/2.5885698b.chunk.js",
     "static/js/2.5885698b.chunk.js.map": "/mbti_stock/static/js/2.5885698b.chunk.js.map",
     "index.html": "/mbti_stock/index.html",
-    "static/css/main.8c9447d0.chunk.css.map": "/mbti_stock/static/css/main.8c9447d0.chunk.css.map",
+    "static/css/main.db845341.chunk.css.map": "/mbti_stock/static/css/main.db845341.chunk.css.map",
     "static/js/2.5885698b.chunk.js.LICENSE.txt": "/mbti_stock/static/js/2.5885698b.chunk.js.LICENSE.txt",
     "static/media/KIA.180fd86d.png": "/mbti_stock/static/media/KIA.180fd86d.png",
     "static/media/LGelectron.684ba597.png": "/mbti_stock/static/media/LGelectron.684ba597.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.a99e3155.js",
     "static/js/2.5885698b.chunk.js",
-    "static/css/main.8c9447d0.chunk.css",
+    "static/css/main.db845341.chunk.css",
     "static/js/main.aee2b983.chunk.js"
   ]
 }
