@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Jua&family=Nanum+Myeongjo:wght@700&family=Noto+Sans+KR:wght@300&family=Noto+Serif+KR:wght@900&display=swap");
+:root {
+  --bg-color: rgb(255, 255, 255);
+  --font-color: black;
+  --title-font: "Nanum Myeongjo", serif;
+  --content-font: "Noto Sans KR", sans-serif;
+  --result-font: "Jua", sans-serif;
+}
+
+body {
+  height: auto;
+  display: block;
+  background-color: var(--bg-color);
+  text-align: center;
+  justify-content: center;
+  font-family: var(--content-font);
+  font-weight: bold;
+}
+.main {
+  height: 30em;
+  width: 25em;
+  background-color: rgb(255, 246, 230);
+  margin-top: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(48, 48, 48);
+}
+
+.main_title {
+  padding-top: 4em;
+  font-size: 40px;
+}
+.main_subtitle {
+  font-size: 15px;
+  padding-bottom: 4em;
+}
+.main_img {
+  margin: 0;
+  max-width: 550px;
+  width: 100%;
+  height: auto;
+  font-family: var(--title-font);
+  cursor: pointer;
+}
+.button {
+  padding: 1px 6px;
+  border-width: 1px;
+  border-style: outset;
+  background-color: rgb(233, 233, 233);
+  border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+  border-image: initial;
+}
+.option-btn {
+  font-family: var(--title-font);
+  font-weight: bolder;
+  font-size: 1.2rem;
+  height: 5em;
+  width: 20rem;
+  margin: 0.5em;
+  word-break: keep-all;
+  white-space: pre-line;
+}
+.option-rbtn {
+  font-family: var(--title-font);
+  font-weight: bolder;
+  font-size: 1.2rem;
+  height: 11em;
+  width: 20rem;
+  margin: 0.5em;
+  word-break: keep-all;
+  white-space: pre-line;
+}
+.question {
+  margin: 3rem 3rem 2rem;
+  color: var(--font-color);
+  font-family: var(--title-font);
+  white-space: pre-line;
+  display: block;
+  font-size: 2em;
+  margin-block-start: 1.67em;
+  margin-block-end: 1.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+.num {
+  font-size: 40px;
+  margin-bottom: 0.5em;
+}
+.start_button {
+  padding: 1em 6em 1em 6em;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: rgba(255, 200, 117, 0.432);
+  display: inline-block;
+}
+.adfit {
+  margin-bottom: 10em;
+}

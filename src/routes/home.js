@@ -1,7 +1,8 @@
 import React from "react";
-import {Link} from "react-router-dom";
-import {QuestionDB} from "./questiondb";
-import Result from "../result/result";
+import {QuestionDB} from "../component/QuestionDB";
+import Result from "./calculate_result";
+import "../css/home.css";
+import calculate_result from "./calculate_result";
 // ISFP
 
 
@@ -16,8 +17,9 @@ class App extends React.Component{
         pj: 0,
         array : {},
         button1 : 0,
-        button2 : 0
-    };
+        button2 : 0,
+        mbti: "",
+    }
     addCount = () =>{
         if(this.state.count < 12){
             this.setState(current => ({ count : current.count + 1 }));
@@ -104,10 +106,22 @@ class App extends React.Component{
         this.calculated();
         if(this.state.link === 0){
             return (
-                <div> 
-                    <a onClick={this.addLink}>
-                        <img className="main-img" src="https://images.ktestone.com/introImages/personalColor-intro.png"/> 
-                    </a>
+                <div>
+                    <div className = "main">
+                        <div className = "main_title">
+                            퍼스널 주식 테스트
+                        </div>
+                        <div className = "main_subtitle">
+                            주식 종목으로 알아보는 나의 성향 테스트
+                        </div>
+                        <div className = "start_button" onClick = {this.addLink}>시작하기</div>
+                    </div>
+                    <div>
+                        <a >
+                           현재까지 총<img src="https://www.cutercounter.com/hits.php?id=hxkndao&nd=6&style=3" height = "16" border="0" alt="website counter"/>명이 참여했어요.
+                        </a>
+                    </div>
+                    <div className = "adfit"> </div>
                 </div>
             )
         }
@@ -115,17 +129,27 @@ class App extends React.Component{
             this.state.array = QuestionDB[this.state.link];
             return (
             <div>
-                <div>{this.state.array.question}</div>
-                <div onClick = {this.addLink}>
-                    <button onClick = {this.addButton1}>{this.state.array.answer1}</button>
+                <div className = "adfit"> </div>
+                <div className = "question">
+                    <div className = "num">
+                        Q{this.state.array.id}
+                    </div>
+                    <div className = "question-txt">
+                    {this.state.array.question}
+                    </div>
                 </div>
-                <div onClick = {this.addLink}>
-                    <button onClick = {this.addButton2}>{this.state.array.answer2}</button>
+                <div>
+                <span onClick = {this.addLink}>
+                    <button className = "button option-btn" onClick = {this.addButton1}>{this.state.array.answer1}</button>
+                </span>
                 </div>
-    
-                <div className="question-count">
-                    <h3>{this.state.array.id}  / 12</h3>
+                <div>
+                <span onClick = {this.addLink}>
+                    <button className = "button option-btn" onClick = {this.addButton2}>{this.state.array.answer2}</button>
+                </span>
                 </div>
+                <div className = "adfit"> </div>
+
             </div>
 
             );
@@ -138,6 +162,7 @@ class App extends React.Component{
                         sn = {this.state.sn}
                         ft = {this.state.ft}
                         pj = {this.state.pj}
+                        mbti = {this.state.mbti}
                     />
                 </div>
             );

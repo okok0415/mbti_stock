@@ -1,0 +1,128 @@
+.result_title {
+  display: inline;
+  font-size: 40px;
+  background-color: rgba(255, 200, 117, 0.432);
+  font-family: var(--result-font);
+  color: rgb(66, 66, 66);
+}
+.result_subtitle {
+  display: inline;
+  background-color: rgba(255, 201, 121, 0.473);
+  font-size: 20px;
+  color: rgb(65, 65, 65);
+}
+.result_img {
+  margin-bottom: 0.5em;
+}
+.result_personal {
+  height: 19em;
+  width: 21em;
+  border-radius: 20px;
+  background-color: white;
+  margin-bottom: 1.5em;
+  text-align: left;
+  padding-right: 1em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+.result_personal_font {
+  font-size: 13px;
+}
+.result_personal_line {
+  padding-bottom: 1.5em;
+}
+.result_best {
+  margin-right: 0.7em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+  width: 8em;
+  height: 10em;
+  background-color: white;
+  display: inline-block;
+  border-radius: 20px;
+}
+.result_best_title {
+  width: 8em;
+  height: 1.7em;
+  background-color: rgb(253, 146, 125);
+  border-radius: 5px;
+  padding-top: 1px;
+
+  font-family: var(--content-font);
+}
+.result_font {
+  padding-top: 3px;
+  font-size: 14px;
+  color: white;
+}
+.result_worst {
+  margin-left: 0.7em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+  width: 8em;
+  height: 10em;
+  background-color: white;
+  display: inline-block;
+  border-radius: 20px;
+}
+.result_worst_title {
+  width: 8em;
+  height: 1.7em;
+  background-color: rgb(41, 134, 195);
+  border-radius: 5px;
+  padding-top: 1px;
+  font-family: var(--content-font);
+}
+.result_explain {
+  padding-top: 1.5em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+
+  font-family: var(--content-font);
+  border: 2px;
+  color: rgb(166, 166, 166);
+  width: 22em;
+  height: 55em;
+  background-color: rgb(255, 246, 230);
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  margin-bottom: 3em;
+}
+
+.result_list {
+  text-align: left;
+  font-family: var(--content-font);
+  font-size: 1.2em;
+}
+
+.link_copy {
+  padding-top: 0.7em;
+  display: block;
+  height: 2em;
+  width: 11.5em;
+  background-color: rgb(255, 235, 202);
+  margin-left: auto;
+  margin-right: auto;
+}
+.restart {
+  padding-top: 0.7em;
+  display: block;
+  height: 2em;
+  width: 11.5em;
+  background-color: rgb(255, 235, 202);
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration: underline rgb(255, 235, 202);
+  color: black;
+}
+.result_padding {
+  padding-left: 1.5em;
+}
+.result_padding_bottom {
+  text-align: left;
+  padding-bottom: 0.7em;
+}
