@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mbti_stock/static/css/main.008c9c21.chunk.css",
-    "main.js": "/mbti_stock/static/js/main.bd7eb5c3.chunk.js",
-    "main.js.map": "/mbti_stock/static/js/main.bd7eb5c3.chunk.js.map",
+    "main.js": "/mbti_stock/static/js/main.ec8ed871.chunk.js",
+    "main.js.map": "/mbti_stock/static/js/main.ec8ed871.chunk.js.map",
     "runtime-main.js": "/mbti_stock/static/js/runtime-main.a99e3155.js",
     "runtime-main.js.map": "/mbti_stock/static/js/runtime-main.a99e3155.js.map",
-    "static/js/2.1b43a9fd.chunk.js": "/mbti_stock/static/js/2.1b43a9fd.chunk.js",
-    "static/js/2.1b43a9fd.chunk.js.map": "/mbti_stock/static/js/2.1b43a9fd.chunk.js.map",
+    "static/js/2.33002315.chunk.js": "/mbti_stock/static/js/2.33002315.chunk.js",
+    "static/js/2.33002315.chunk.js.map": "/mbti_stock/static/js/2.33002315.chunk.js.map",
     "index.html": "/mbti_stock/index.html",
     "static/css/main.008c9c21.chunk.css.map": "/mbti_stock/static/css/main.008c9c21.chunk.css.map",
-    "static/js/2.1b43a9fd.chunk.js.LICENSE.txt": "/mbti_stock/static/js/2.1b43a9fd.chunk.js.LICENSE.txt",
+    "static/js/2.33002315.chunk.js.LICENSE.txt": "/mbti_stock/static/js/2.33002315.chunk.js.LICENSE.txt",
     "static/media/KIA.180fd86d.png": "/mbti_stock/static/media/KIA.180fd86d.png",
     "static/media/LGelectron.684ba597.png": "/mbti_stock/static/media/LGelectron.684ba597.png",
     "static/media/NAVER.b66bc7d1.png": "/mbti_stock/static/media/NAVER.b66bc7d1.png",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a99e3155.js",
-    "static/js/2.1b43a9fd.chunk.js",
+    "static/js/2.33002315.chunk.js",
     "static/css/main.008c9c21.chunk.css",
-    "static/js/main.bd7eb5c3.chunk.js"
+    "static/js/main.ec8ed871.chunk.js"
   ]
 }
